@@ -1,2 +1,2 @@
 # Ldap
-Ldap stack for ScriptStack
+Ldap stack for [scriptstack](https://github.com/zarat/scriptstack)
